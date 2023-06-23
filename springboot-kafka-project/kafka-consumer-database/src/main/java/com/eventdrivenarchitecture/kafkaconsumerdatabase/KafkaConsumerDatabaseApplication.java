@@ -1,13 +1,13 @@
-package com.eventdrivenarchitecture.springbootkafkaproject;
+package com.eventdrivenarchitecture.kafkaconsumerdatabase;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootKafkaProjeApplication {
+public class KafkaConsumerDatabaseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootKafkaProjeApplication.class, args);
+		SpringApplication.run(KafkaConsumerDatabaseApplication.class, args);
 	}
 
 }
